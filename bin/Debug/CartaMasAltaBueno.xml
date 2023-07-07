@@ -1,0 +1,384 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CartaMasAltaBueno
+</name>
+</assembly>
+<members>
+<member name="T:CartaMasAltaBueno.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._10">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._11">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._12">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._13">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._14">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._15">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._16">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._17">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._18">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._19">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._20">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._21">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._22">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._23">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._25">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._26">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._27">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._28">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._29">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._30">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._31">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._33">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._34">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._35">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._36">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._37">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._38">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._39">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._40">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._41">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._42">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._43">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._44">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._45">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._46">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._47">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._49">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._50">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._51">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._52">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._6">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._7">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._8">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources._9">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources.fondo1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources.fondo2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources.fondo3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources.fondo4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CartaMasAltaBueno.My.Resources.Resources.fondo5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:CartaMasAltaBueno.Form1.Form1_Load(System.Object,System.EventArgs)">
+ <summary>
+ QUEDA PENDIENTE:
+  NO REPITE  NUMEROS, pero falta comprobar, por lo que se ha manejado la excepcion por si es igual saca uno nuevo
+ QUE SOBREESCRIBA LOS PICTUREBOX SIN BORRAR LOS ANTERIORES
+ EL PRIMER VALOR DE PREVIUSCARD DEBERIA DE SER ALEATORIO, QUEDA PENDIENTE DE REVISAR
+ </summary>
+</member>
+<member name="T:CartaMasAltaBueno.juegocartasDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CartaMasAltaBueno.juegocartasDataSet.RegistroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CartaMasAltaBueno.juegocartasDataSet.RegistroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CartaMasAltaBueno.juegocartasDataSet.RegistroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CartaMasAltaBueno.juegocartasDataSetTableAdapters.RegistroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CartaMasAltaBueno.juegocartasDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CartaMasAltaBueno.juegocartasDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CartaMasAltaBueno.juegocartasDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CartaMasAltaBueno.juegocartasDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CartaMasAltaBueno.juegocartasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CartaMasAltaBueno.juegocartasDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CartaMasAltaBueno.juegocartasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CartaMasAltaBueno.juegocartasDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CartaMasAltaBueno.juegocartasDataSetTableAdapters.TableAdapterManager.UpdateAll(CartaMasAltaBueno.juegocartasDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CartaMasAltaBueno.juegocartasDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CartaMasAltaBueno.juegocartasDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

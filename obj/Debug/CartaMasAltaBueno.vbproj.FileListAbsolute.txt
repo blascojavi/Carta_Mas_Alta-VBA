@@ -1,0 +1,29 @@
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.Form1.resources
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.listings.resources
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.Resources.resources
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.NewBackDeck.resources
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.vbproj.GenerateResource.cache
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.vbproj.CoreCompileInputs.cache
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.vbproj.AssemblyReference.cache
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\bin\Debug\CartaMasAltaBueno.exe.config
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\bin\Debug\CartaMasAltaBueno.exe
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\bin\Debug\CartaMasAltaBueno.pdb
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\bin\Debug\CartaMasAltaBueno.xml
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.exe
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.xml
+C:\Users\blasc\Desktop\carta\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.pdb
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.vbproj.AssemblyReference.cache
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.Form1.resources
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.listings.resources
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.Resources.resources
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.NewBackDeck.resources
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.vbproj.GenerateResource.cache
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.vbproj.CoreCompileInputs.cache
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.exe
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.xml
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.pdb
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\bin\Debug\CartaMasAltaBueno.exe.config
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\bin\Debug\CartaMasAltaBueno.exe
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\bin\Debug\CartaMasAltaBueno.pdb
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\bin\Debug\CartaMasAltaBueno.xml
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\CartaMasAltaBueno\obj\Debug\CartaMasAltaBueno.Instructions.resources
